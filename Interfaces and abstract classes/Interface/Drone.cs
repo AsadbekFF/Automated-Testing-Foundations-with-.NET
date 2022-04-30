@@ -12,7 +12,7 @@ namespace Interface
 
         public Drone()
         {
-            CurrentLocation = new Coordinate(0, 100);
+            CurrentLocation = Coordinate.GenerateCoordination();
         }
 
         public Coordinate CurrentLocation { get; set; }
