@@ -10,7 +10,7 @@ namespace Interface
     {
         public Airplane()
         {
-            CurrentLocation = new Coordinate(0, 100);
+            CurrentLocation = Coordinate.GenerateCoordination();
         }
 
         private int speed;
