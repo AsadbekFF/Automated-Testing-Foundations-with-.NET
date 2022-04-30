@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Interface
 {
-    class Airplane : IFlyable
+    public class Airplane : IFlyable
     {
         public Airplane()
         {
@@ -36,6 +36,7 @@ namespace Interface
         // The speed of airplane can't get over than 700 km/s.
 
         public Coordinate CurrentLocation { get; set; }
+
         public void FlyTo(Coordinate coordinate)
         {
             CurrentLocation = coordinate;

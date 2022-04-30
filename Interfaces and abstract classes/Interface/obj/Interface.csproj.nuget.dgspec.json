@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\source\\repos\\Interface\\Interface\\Interface.csproj": {}
+    "E:\\Epam_Stajirovka\\Automated-Testing-Foundations-with-.NET\\Interfaces and abstract classes\\Interface\\Interface.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\source\\repos\\Interface\\Interface\\Interface.csproj": {
+    "E:\\Epam_Stajirovka\\Automated-Testing-Foundations-with-.NET\\Interfaces and abstract classes\\Interface\\Interface.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\source\\repos\\Interface\\Interface\\Interface.csproj",
+        "projectUniqueName": "E:\\Epam_Stajirovka\\Automated-Testing-Foundations-with-.NET\\Interfaces and abstract classes\\Interface\\Interface.csproj",
         "projectName": "Interface",
-        "projectPath": "C:\\Users\\user\\source\\repos\\Interface\\Interface\\Interface.csproj",
+        "projectPath": "E:\\Epam_Stajirovka\\Automated-Testing-Foundations-with-.NET\\Interfaces and abstract classes\\Interface\\Interface.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\source\\repos\\Interface\\Interface\\obj\\",
+        "outputPath": "E:\\Epam_Stajirovka\\Automated-Testing-Foundations-with-.NET\\Interfaces and abstract classes\\Interface\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

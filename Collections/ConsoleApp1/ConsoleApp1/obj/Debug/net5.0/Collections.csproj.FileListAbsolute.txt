@@ -1,0 +1,16 @@
+E:\Epam_Stajirovka\Automated-Testing-Foundations-with-.NET\Collections\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\Collections.exe
+E:\Epam_Stajirovka\Automated-Testing-Foundations-with-.NET\Collections\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\Collections.deps.json
+E:\Epam_Stajirovka\Automated-Testing-Foundations-with-.NET\Collections\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\Collections.runtimeconfig.json
+E:\Epam_Stajirovka\Automated-Testing-Foundations-with-.NET\Collections\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\Collections.runtimeconfig.dev.json
+E:\Epam_Stajirovka\Automated-Testing-Foundations-with-.NET\Collections\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\Collections.dll
+E:\Epam_Stajirovka\Automated-Testing-Foundations-with-.NET\Collections\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ref\Collections.dll
+E:\Epam_Stajirovka\Automated-Testing-Foundations-with-.NET\Collections\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\Collections.pdb
+E:\Epam_Stajirovka\Automated-Testing-Foundations-with-.NET\Collections\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\Collections.csprojAssemblyReference.cache
+E:\Epam_Stajirovka\Automated-Testing-Foundations-with-.NET\Collections\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\Collections.GeneratedMSBuildEditorConfig.editorconfig
+E:\Epam_Stajirovka\Automated-Testing-Foundations-with-.NET\Collections\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\Collections.AssemblyInfoInputs.cache
+E:\Epam_Stajirovka\Automated-Testing-Foundations-with-.NET\Collections\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\Collections.AssemblyInfo.cs
+E:\Epam_Stajirovka\Automated-Testing-Foundations-with-.NET\Collections\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\Collections.csproj.CoreCompileInputs.cache
+E:\Epam_Stajirovka\Automated-Testing-Foundations-with-.NET\Collections\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\Collections.dll
+E:\Epam_Stajirovka\Automated-Testing-Foundations-with-.NET\Collections\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ref\Collections.dll
+E:\Epam_Stajirovka\Automated-Testing-Foundations-with-.NET\Collections\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\Collections.pdb
+E:\Epam_Stajirovka\Automated-Testing-Foundations-with-.NET\Collections\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\Collections.genruntimeconfig.cache

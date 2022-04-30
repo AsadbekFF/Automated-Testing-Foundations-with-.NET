@@ -2,11 +2,8 @@
 
 namespace Transports
 {
-    public class Bus
+    public class Bus : Vehicle
     {
-        public Engine Engine { get; set; }
-        public Transmission Transmission { get; set; }
-        public Chassis Chassis { get; set; }
         public int NumOfSeats { get; set; }
 
         public void GetInfo()

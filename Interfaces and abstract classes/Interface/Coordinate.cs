@@ -14,7 +14,7 @@ namespace Interface
 
         public static Coordinate GenerateCoordination()
         {
-            Random random = new Random();
+            Random random = new();
             return new Coordinate
             {
                 x = random.Next(0, 100),

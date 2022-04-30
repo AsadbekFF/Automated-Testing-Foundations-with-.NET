@@ -2,11 +2,8 @@
 
 namespace Transports
 {
-    public class Car
+    public class Car : Vehicle
     {
-        public Engine Engine { get; set; }
-        public Transmission Transmission { get; set; }
-        public Chassis Chassis { get; set; }
         public double Weight { get; set; }
 
         public void GetInfo()

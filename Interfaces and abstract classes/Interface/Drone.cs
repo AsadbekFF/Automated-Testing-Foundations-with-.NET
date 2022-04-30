@@ -6,9 +6,10 @@ using System.Threading.Tasks;
 
 namespace Interface
 {
-    class Drone : IFlyable
+    public class Drone : IFlyable
     {
         private readonly int Speed = 100;
+
         public Drone()
         {
             CurrentLocation = Coordinate.GenerateCoordination();

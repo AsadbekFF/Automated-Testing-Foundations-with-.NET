@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\source\\repos\\NumberSystem\\NumberSystem\\NumberSystem.csproj": {}
+    "E:\\Epam_Stajirovka\\Automated-Testing-Foundations-with-.NET\\Basic of .NET framework and C#\\NumberSystem\\NumberSystem.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\source\\repos\\NumberSystem\\NumberSystem\\NumberSystem.csproj": {
+    "E:\\Epam_Stajirovka\\Automated-Testing-Foundations-with-.NET\\Basic of .NET framework and C#\\NumberSystem\\NumberSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\source\\repos\\NumberSystem\\NumberSystem\\NumberSystem.csproj",
+        "projectUniqueName": "E:\\Epam_Stajirovka\\Automated-Testing-Foundations-with-.NET\\Basic of .NET framework and C#\\NumberSystem\\NumberSystem.csproj",
         "projectName": "NumberSystem",
-        "projectPath": "C:\\Users\\user\\source\\repos\\NumberSystem\\NumberSystem\\NumberSystem.csproj",
+        "projectPath": "E:\\Epam_Stajirovka\\Automated-Testing-Foundations-with-.NET\\Basic of .NET framework and C#\\NumberSystem\\NumberSystem.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\source\\repos\\NumberSystem\\NumberSystem\\obj\\",
+        "outputPath": "E:\\Epam_Stajirovka\\Automated-Testing-Foundations-with-.NET\\Basic of .NET framework and C#\\NumberSystem\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

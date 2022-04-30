@@ -11,6 +11,7 @@ namespace Interface
 
         private readonly int Speed = new Random().Next(0, 20);
         public Coordinate CurrentLocation { get; set; }
+
         public void FlyTo(Coordinate coordinate)
         {
             CurrentLocation = coordinate;

@@ -2,11 +2,8 @@
 
 namespace Transports
 {
-    public class Scooter
+    public class Scooter : Vehicle
     {
-        public Engine Engine { get; set; }
-        public Transmission Transmission { get; set; }
-        public Chassis Chassis { get; set; }
         public bool ExtraSeat { get; set; }
 
         public void GetInfo()

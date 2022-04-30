@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<ArrayOfVehicle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Vehicle xsi:type="Car">
+    <Engine>
+      <Power>200</Power>
+      <Capacity>2</Capacity>
+      <Type>GTX</Type>
+      <SerialNumber>123</SerialNumber>
+    </Engine>
+    <Chassis>
+      <NumOfWheels>4</NumOfWheels>
+      <Number>444</Number>
+      <LoadCapacity>1000</LoadCapacity>
+    </Chassis>
+    <Transmission>
+      <Type>all-wheel drive</Type>
+      <NumOfGears>6</NumOfGears>
+      <Manufacturer>BMW</Manufacturer>
+    </Transmission>
+    <Weight>1500</Weight>
+  </Vehicle>
+  <Vehicle xsi:type="Bus">
+    <Engine>
+      <Power>300</Power>
+      <Capacity>3</Capacity>
+      <Type>GTX</Type>
+      <SerialNumber>321</SerialNumber>
+    </Engine>
+    <Chassis>
+      <NumOfWheels>4</NumOfWheels>
+      <Number>4</Number>
+      <LoadCapacity>1500</LoadCapacity>
+    </Chassis>
+    <Transmission>
+      <Type>Back wheel drive</Type>
+      <NumOfGears>6</NumOfGears>
+      <Manufacturer>Mercedes</Manufacturer>
+    </Transmission>
+    <NumOfSeats>27</NumOfSeats>
+  </Vehicle>
+  <Vehicle xsi:type="Scooter">
+    <Engine>
+      <Power>100</Power>
+      <Capacity>1</Capacity>
+      <Type>GTX</Type>
+      <SerialNumber>111</SerialNumber>
+    </Engine>
+    <Chassis>
+      <NumOfWheels>4</NumOfWheels>
+      <Number>234</Number>
+      <LoadCapacity>500</LoadCapacity>
+    </Chassis>
+    <Transmission>
+      <Type>Front wheel drive</Type>
+      <NumOfGears>6</NumOfGears>
+      <Manufacturer>Chevralet</Manufacturer>
+    </Transmission>
+    <ExtraSeat>false</ExtraSeat>
+  </Vehicle>
+  <Vehicle xsi:type="Truck">
+    <Engine>
+      <Power>300</Power>
+      <Capacity>3</Capacity>
+      <Type>GTX</Type>
+      <SerialNumber>321</SerialNumber>
+    </Engine>
+    <Chassis>
+      <NumOfWheels>4</NumOfWheels>
+      <Number>4</Number>
+      <LoadCapacity>1500</LoadCapacity>
+    </Chassis>
+    <Transmission>
+      <Type>all-wheel drive</Type>
+      <NumOfGears>6</NumOfGears>
+      <Manufacturer>BMW</Manufacturer>
+    </Transmission>
+    <WheelSize>50</WheelSize>
+  </Vehicle>
+  <Vehicle xsi:type="Car">
+    <Engine>
+      <Power>200</Power>
+      <Capacity>2</Capacity>
+      <Type>GTX</Type>
+      <SerialNumber>123</SerialNumber>
+    </Engine>
+    <Chassis>
+      <NumOfWheels>4</NumOfWheels>
+      <Number>4</Number>
+      <LoadCapacity>1500</LoadCapacity>
+    </Chassis>
+    <Transmission>
+      <Type>Front wheel drive</Type>
+      <NumOfGears>6</NumOfGears>
+      <Manufacturer>Chevralet</Manufacturer>
+    </Transmission>
+    <Weight>1000</Weight>
+  </Vehicle>
+</ArrayOfVehicle>
