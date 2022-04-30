@@ -6,7 +6,7 @@ namespace Interface
     {
         public Bird()
         {
-            CurrentLocation = Coordinate.GenerateCoordination();    
+            CurrentLocation = new Coordinate(0, 100);    
         }
 
         private readonly int Speed = new Random().Next(0, 20);
